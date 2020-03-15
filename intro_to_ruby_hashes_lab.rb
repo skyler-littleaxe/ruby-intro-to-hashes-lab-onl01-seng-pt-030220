@@ -1,5 +1,7 @@
 def new_hash
-
+  gym = {}
+  
+gym
 end
 
 def actor
